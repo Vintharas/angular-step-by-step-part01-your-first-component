@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular-step-by-step-part01-your-first-component"
+  "defaultProject": "angular-step-by-step-part01-your-first-component",
+  "cli": {
+    "analytics": "8aee3415-df66-459a-b336-57e72f777a23"
+  }
 }
